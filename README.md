@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Iv%C3%A1n%20Martos&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20" alt="Iván Martos" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header&animation=fadeIn" alt="" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=100000&color=2F81F7&center=true&vCenter=true&width=640&height=80&repeat=false&lines=IV%C3%81N+MARTOS" alt="Iván Martos" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Desarrollo+de+software+y+bases+de+datos;Java+%7C+Kotlin+%7C+Python+%7C+SQL;C%C3%B3digo+limpio%2C+bien+estructurado;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 

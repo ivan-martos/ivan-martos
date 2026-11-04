@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:10304a,100:1b4f72&height=170&section=header&animation=twinkling" alt="" />
+<img src="https://raw.githubusercontent.com/ivan-martos/ivan-martos/main/banner.svg" alt="Código Java, SQL, Kotlin y Python en movimiento" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=100000&color=2F81F7&center=true&vCenter=true&width=640&height=80&repeat=false&lines=IV%C3%81N+MARTOS" alt="Iván Martos" />
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header&animation=fadeIn" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:10304a,100:1b4f72&height=170&section=header&animation=twinkling" alt="" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=100000&color=2F81F7&center=true&vCenter=true&width=640&height=80&repeat=false&lines=IV%C3%81N+MARTOS" alt="Iván Martos" />
 
@@ -82,6 +82,6 @@ data class Developer(
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4f72,50:10304a,100:0b1220&height=120&section=footer&animation=twinkling" alt="footer" />
 
 </div>

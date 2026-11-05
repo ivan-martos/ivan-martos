@@ -89,7 +89,6 @@ data class Developer(
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
   <img src="assets/espacio.jpg" width="100%" alt="Fondo de estrellas" style="border-radius: 10px;">

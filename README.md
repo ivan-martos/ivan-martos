@@ -89,11 +89,10 @@ data class Developer(
 </div>
 
 <br/>
-
 <br/>
 
 <div align="center">
-  <img src="assets/espacio.png" width="100%" alt="Espacio y planetas" style="border-radius: 10px;">
+  <img src="assets/espacio.jpg" width="100%" alt="Fondo de estrellas" style="border-radius: 10px;">
 </div>
 
 <div align="center">

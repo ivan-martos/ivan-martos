@@ -88,8 +88,13 @@ data class Developer(
   <a href="mailto:ivan.martosv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
+<br/>
 
 <br/>
+
+<div align="center">
+  <img src="assets/espacio.png" width="100%" alt="Espacio y planetas" style="border-radius: 10px;">
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4f72,50:10304a,100:0b1220&height=120&section=footer&animation=twinkling" alt="footer" />

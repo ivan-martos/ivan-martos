@@ -53,17 +53,14 @@ data class Developer(
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <!-- Aquí tienes ahora mismo tus tarjetas y enlaces rotos -->
   <img src="https://streak-stats.demolab.com/?user=ivan-martos&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de contribuciones" />
 </div>
 
 <br/>
 
-<!-- PEGA EL CÓDIGO DE LA SERPIENTE AQUÍ -->
 <div align="center">
-  <img alt="Snake Animada de Iván" src="https://raw.githubusercontent.com/ivan-martos/ivan-martos/output/dist/github-snake-dark.svg" width="100%">
+  <img alt="Snake Animada de Iván" src="https://raw.githubusercontent.com/ivan-martos/ivan-martos/output/github-snake-dark.svg" width="100%">
 </div>
-
 ---
 
 ### 🎯 En lo que estoy

@@ -63,7 +63,6 @@ data class Developer(
 </div>
 ---
 
-### 🎯 En lo que estoy
 
 ---
 
@@ -82,8 +81,15 @@ data class Developer(
 
 <br/>
 
+### 📬 Contacto
+
 <div align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivan-martos-5b840343b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ivan.martosv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4f72,50:10304a,100:0b1220&height=120&section=footer&animation=twinkling" alt="footer" />
+<br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4f72,50:10304a,100:0b1220&height=120&section=footer&animation=twinkling" alt="footer" />
 </div>

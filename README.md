@@ -23,16 +23,9 @@
 
 Soy **Iván Martos**, desarrollador de software con interés en crear aplicaciones bien estructuradas, mantenibles y agradables de usar. Me gusta entender cómo funcionan las cosas por dentro, escribir código claro y mejorar un poco cada día.
 
-```kotlin
-data class Developer(
-    val name: String = "Iván Martos",
-    val role: String = "Software Developer",
-    val languages: List<String> = listOf("Java", "Kotlin", "Python", "SQL"),
-    val databases: List<String> = listOf("Oracle", "MySQL"),
-    val learning: List<String> = listOf("Java a fondo", "Kotlin", "Python"),
-    val motto: String = "Hazlo funcionar, hazlo bien, hazlo limpio."
-)
-```
+<p align="center">
+  <img src="assets/developer-typing.svg" alt="Developer data class" />
+</p>
 
 ---
 

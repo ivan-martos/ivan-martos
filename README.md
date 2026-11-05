@@ -53,15 +53,20 @@ data class Developer(
 ### 📊 Actividad en GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ivan-martos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-martos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
-
-<img src="https://streak-stats.demolab.com/?user=ivan-martos&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de contribuciones" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivan-martos&theme=onedark&no-frame=true&no-bg=true&column=7" alt="Trofeos" />
-
+  <!-- Aquí tienes ahora mismo tus tarjetas y enlaces rotos -->
+  <img src="https://streak-stats.demolab.com/?user=ivan-martos&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de contribuciones" />
 </div>
+
+<br/>
+
+<!-- PEGA EL CÓDIGO DE LA SERPIENTE AQUÍ -->
+<div align="center">
+  <img alt="Snake Animada de Iván" src="https://raw.githubusercontent.com/ivan-martos/ivan-martos/output/dist/github-snake-dark.svg" width="100%">
+</div>
+
+---
+
+### 🎯 En lo que estoy
 
 ---
 

@@ -99,7 +99,3 @@ data class Developer(
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4f72,50:10304a,100:0b1220&height=120&section=footer&animation=twinkling" alt="footer" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4f72,50:10304a,100:0b1220&height=120&section=footer&animation=twinkling" alt="footer" />
-</div>
